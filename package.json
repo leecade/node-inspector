@@ -22,28 +22,28 @@
     "node-debug": "./bin/node-debug.js"
   },
   "dependencies": {
-    "async": "~0.9",
+    "async": "~2.1.2",
     "biased-opener": "~0.2.2",
     "debug": "^2.2.0",
     "express": "^4.12.3",
-    "glob": "^5.0.5",
+    "glob": "^7.1.1",
     "path-is-absolute": "^1.0.0",
     "rc": "^1.0.1",
-    "semver": "^4.3.4",
+    "semver": "^5.3.0",
     "serve-favicon": "^2.1.1",
     "strong-data-uri": "^1.0.0",
     "v8-debug": "~0.7.1",
     "v8-profiler": "~5.6.0",
     "which": "^1.1.1",
     "ws": "^1.0.1",
-    "yargs": "^3.9.0"
+    "yargs": "^6.3.0"
   },
   "devDependencies": {
     "promise": "^7.0.3",
-    "mocha": "^1.21",
-    "chai": "^2.1",
+    "mocha": "^3.1.2",
+    "chai": "^3.5.0",
     "jshint": "^2.4.4",
-    "fs-extra": "~0.8.1"
+    "fs-extra": "~1.0.0"
   },
   "preferGlobal": true,
   "scripts": {
